@@ -1,0 +1,7 @@
+com/hacko/backend/BackendApplication.class
+com/hacko/backend/controller/ApiController.class
+com/hacko/backend/dto/ProcessingStatusResponse.class
+com/hacko/backend/config/CorsConfig.class
+com/hacko/backend/dto/LanguageDetectionResponse.class
+com/hacko/backend/dto/DocumentProcessingRequest.class
+com/hacko/backend/dto/DocumentProcessingResponse.class
